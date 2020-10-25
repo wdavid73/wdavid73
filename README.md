@@ -27,24 +27,6 @@
 <code>
     <img
         align="left"
-        alt="HTML5"
-        width="26px"
-        src="https://img.icons8.com/color/48/000000/html-5.png"
-    />
-</code>
-
-<code>
-    <img
-        align="left"
-        alt="CSS3"
-        width="26px"
-        src="https://img.icons8.com/color/48/000000/css3.png"
-    />
-</code>
-
-<code>
-    <img
-        align="left"
         alt="JavaScript"
         width="26px"
         src="https://img.icons8.com/color/48/000000/javascript.png"
