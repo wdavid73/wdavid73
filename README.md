@@ -135,20 +135,32 @@
     src="https://img.icons8.com/color/48/000000/pycharm.png"
 />
 
-<img align="left" width="26px" alt="Postman" src="https://img.icons8.com/dusk/64/000000/postman-api.png"/>
-<img align="left" width="26px" alt="Anaconda Navigator" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
+<img 
+    align="left"
+    width="26px"
+    alt="Postman"
+    src="https://img.icons8.com/dusk/64/000000/postman-api.png"
+/>
 
-<br />
-<br />
+<img
+    align="left"
+    width="26px"
+    alt="Anaconda Navigator"
+    src="https://img.icons8.com/dusk/64/000000/anaconda.png"
+/>
+
+<br
+/>
+<br
+/>
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![Wdavid73's github stats](https://github-readme-stats.vercel.app/api?username=wdavid73&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wdavid73&show_icons=true&hide_border=true" />
 
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavid73&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [twitter]: https://twitter.com/guicho_73
 [instagram]: https://instagram.com/guicho_23
