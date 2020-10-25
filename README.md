@@ -7,20 +7,16 @@
 - 🌱 I’m currently about development video games 🤣
 - ⚡ My favorite language at the moment is python
 
-<!-- ## Spotify Playing 🎧
+## Connect with me
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
+[<img align="left" alt="wdavid73 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 
-## Connect with me:
+[<img align="left" alt="wdavid73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="guicho_twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="wdavid73 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-<br />
+<br>
+<br>
 
 ## Languages and Tools
 
@@ -135,7 +131,7 @@
     src="https://img.icons8.com/color/48/000000/pycharm.png"
 />
 
-<img 
+<img
     align="left"
     width="26px"
     alt="Postman"
@@ -158,9 +154,7 @@
 
 [![Wdavid73's github stats](https://github-readme-stats.vercel.app/api?username=wdavid73&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavid73&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [twitter]: https://twitter.com/guicho_73
 [instagram]: https://instagram.com/guicho_23
