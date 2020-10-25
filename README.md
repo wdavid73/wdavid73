@@ -149,6 +149,42 @@
     />
 </code>
 
+<code>
+    <img
+        align="left"
+        width="26px"
+        alt="Visual Studio Code"
+        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"
+    />
+</code>
+
+<code>
+    <img
+        align="left"
+        width="26px"
+        alt="PyCharm"
+        src="https://img.icons8.com/color/48/000000/pycharm.png"
+    />
+</code>
+
+<code>
+    <img
+        align="left"
+        width="26px"
+        alt="Postman"
+        src="https://img.icons8.com/dusk/64/000000/postman-api.png"
+    />
+</code>
+
+<code>
+    <img
+        align="left"
+        width="26px"
+        alt="Anaconda Navigator"
+        src="https://img.icons8.com/dusk/64/000000/anaconda.png"
+    />
+</code>
+
 <br />
 <br />
 
