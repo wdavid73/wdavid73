@@ -22,9 +22,23 @@
 
 <img
     align="left"
+    alt="Python"
+    width="26px"
+    src="https://img.icons8.com/color/48/000000/python.png"
+/>
+
+<img
+    align="left"
     alt="JavaScript"
     width="26px"
     src="https://img.icons8.com/color/48/000000/javascript.png"
+/>
+
+<img 
+    align="left"
+    alt="Dart"
+    width="26px"
+    src="https://img.icons8.com/color/48/000000/dart.png"
 />
 
 <img
@@ -41,19 +55,8 @@
     src="https://img.icons8.com/offices/30/000000/php-logo.png"
 />
 
-<img
-    align="left"
-    alt="Python"
-    width="26px"
-    src="https://img.icons8.com/color/48/000000/python.png"
-/>
 
-<im
-    align="left"
-    alt="Node.js"
-    width="26px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topicsnodejs/nodejs.png"
-/>
+
 
 <img
     align="left"
@@ -82,6 +85,14 @@
     width="26px"
     src="https://img.icons8.com/nolan/64/react-native.png"
 />
+
+<img
+    align="left"
+    alt="Flutter"
+    width="26px"
+    src="https://img.icons8.com/color/48/000000/flutter.png"
+/>
+
 <img
     align="left"
     alt="Django"
@@ -110,40 +121,7 @@
     src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
 />
 
-<img
-    align="left"
-    alt="Terminal"
-    width="26px"
-    src="https://img.icons8.com/doodle/48/000000/console--v2.png"
-/>
 
-<img
-    align="left"
-    width="26px"
-    alt="Visual Studio Code"
-    src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"
-/>
-
-<img
-    align="left"
-    width="26px"
-    alt="PyCharm"
-    src="https://img.icons8.com/color/48/000000/pycharm.png"
-/>
-
-<img
-    align="left"
-    width="26px"
-    alt="Postman"
-    src="https://img.icons8.com/dusk/64/000000/postman-api.png"
-/>
-
-<img
-    align="left"
-    width="26px"
-    alt="Anaconda Navigator"
-    src="https://img.icons8.com/dusk/64/000000/anaconda.png"
-/>
 
 <br
 />
