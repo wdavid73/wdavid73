@@ -1,121 +1,55 @@
-# Hi there, I'm Wilson Padilla 👋
+<h1 align="center">
+    <b>Hi , I'm Wilson Padilla </b>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/guicho_73?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=guicho_73)
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-## I'm a Systems engineer, FrontEnd and Mobile Developer
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🌱 Currently my focus is on mobile development with flutter. 🤣
-- ⚡ The programming languages I am most proficient in are JavaScript, Python and Dart.
+<br><br>
 
-## Connect with me
+- :school: I am a `Systems Engineer` at [Universidad de la costa](https://www.cuc.edu.co/).
+- :trophy: **Frontend Developer** with experience in web and mobile technologies.
+- :technologist: **Enjoy** collaborating on challenging projects and exploring new opportunities in web and mobile development.
+- :computer: **Specialized** in:
+    - **Vue.js**
+    - **React.js**
+    - **Android (Java)**
+    - **Flutter**
+    - **React Native**
+- :student: **Focused** on creating efficient and high-performance applications.
+- :nerd_face: **Passionate** about continuous learning and emerging technologies.
+- :boom: You can visit [MY WEBSITE](https://wdavid73.netlify.app/).
+<br>
 
-[<img align="left" alt="wdavid73 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
-[<img align="left" alt="wdavid73 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[<img align="left" alt="wdavid73 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,docker,postgres,express,figma,firebase,github,html,java,js,linux,md,materialui,mysql,nextjs,nodejs,postman,py,react,redux,ts,vscode,flutter,dart,django,vue,sass,kotlin,androidstudio&perline=14" />
+  </a>
+</p>
 
 <br>
+<div>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdavid73&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="wdavid73's Github Stats">
+
 <br>
 
-## Languages and Tools
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=wdavid73&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="wdavid73's Github Stats">
 
-<img
-    align="left"
-    alt="Python"
-    width="26px"
-    src="https://img.icons8.com/color/48/000000/python.png"
-/>
+<br>
 
-<img
-    align="left"
-    alt="JavaScript"
-    width="26px"
-    src="https://img.icons8.com/color/48/000000/javascript.png"
-/>
+### 🤝🏻 &nbsp;Connect with Me
 
-<img 
-    align="left"
-    alt="Dart"
-    width="26px"
-    src="https://img.icons8.com/color/48/000000/dart.png"
-/>
-
-<img
-    align="left"
-    alt="Java"
-    width="26px"
-    src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"
-/>
-
-
-
-
-
-<img
-    align="left"
-    width="26px"
-    alt="MYSQL"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
-/>
-
-<img
-    align="left"
-    width="26px"
-    alt="PostgreSQL"
-    src="https://img.icons8.com/color/48/000000/postgreesql.png"
-/>
-
-<img
-    align="left"
-    alt="React"
-    width="26px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-/>
-
-
-<img
-    align="left"
-    alt="Flutter"
-    width="26px"
-    src="https://img.icons8.com/color/48/000000/flutter.png"
-/>
-
-<img
-    align="left"
-    alt="Django"
-    width="26px"
-    src="https://img.icons8.com/color/48/000000/django.png"
-/>
-
-
-<img
-    align="left"
-    alt="Git"
-    width="26px"
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-/>
-
-<img
-    align="left"
-    alt="GitHub"
-    width="26px"
-    src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"
-/>
-
-
-
-<br
-/>
-<br
-/>
-
----
-
-[![Wdavid73's github stats](https://github-readme-stats.vercel.app/api?username=wdavid73&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdavid73&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-[twitter]: https://twitter.com/guicho_73
-[instagram]: https://instagram.com/guicho_23
-[linkedin]: https://www.linkedin.com/in/wpadilla23/
+<p align="center">
+<a href="https://www.linkedin.com/in/wpadilla23/"><img src="https://img.shields.io/badge/-Wilson%20Padilla%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:wdavidw26@gmail.com"><img src="https://img.shields.io/badge/-Wilson%20Padilla-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/guicho_23/"><img src="https://img.shields.io/badge/-guicho_23-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
